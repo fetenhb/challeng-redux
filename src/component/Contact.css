@@ -1,0 +1,29 @@
+ul {
+    margin-top: 7px !important;
+    list-style-type: none !important;
+    margin-bottom: 7px !important;
+}
+html{ background-color: #011627;
+    margin-left: 25%;
+    margin-right: 15%;}
+
+.company {
+    width:70%;
+    background-color:#FF9F1C;
+    border:solid 5px white;
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+p {
+    margin:0
+}
+.item span{
+font-weight: bold;
+}
